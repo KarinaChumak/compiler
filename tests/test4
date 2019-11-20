@@ -1,0 +1,8 @@
+PROGRAM SIG01;
+BEGIN
+(*cgjhgjhgj*)
+IF 3 < 2
+THEN
+ENDIF
+(*cgj**c7*hgjhgj*)
+END.
